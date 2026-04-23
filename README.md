@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Sognarr
-- 👀 I’m interested in creating a carrer where i can work from home.
-- 🌱 I’m currently learning python.
+- 👋 Hi, I’m Joel Benavidez
+- 👀 I’m a Data engineer with some experience as data analyst
 - 📫 How to reach me www.linkedin.com/in/joel-benavidez-096
